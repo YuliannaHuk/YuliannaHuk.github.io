@@ -1,0 +1,33 @@
+.main{
+    width: 1000px;
+    height: 606px;
+    border: 1px solid black;
+    margin: 30px;
+}
+.daughter{
+    width: 350px;
+    height: 560px;
+    float: left;
+    overflow: scroll;
+    border: 3px solid black;
+    margin: 20px;
+    padding: 7px;
+    }
+.picture1{
+    height: 150px;
+    width: 200px;
+    float: left;
+    margin-right: 5px;
+}
+.picture2{
+    margin:5px 3px 5px ;
+    height: 60px;
+    width: 60px;
+    float: left;
+    
+}
+.boxpicture2{
+    width: 205px;
+    height: 70px;
+    float:left;
+    }
