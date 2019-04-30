@@ -1,0 +1,22 @@
+div{
+    border: 1px #444;
+    padding: 10px;
+}
+.menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: #FFBF00;
+    border-bottom: 10px grey;
+    
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: #FBCEB1;
+}
+
+.btn btn-primary:hover {
+   font-size: 50px;
+}
